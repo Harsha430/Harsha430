@@ -1,16 +1,371 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Harsha430/Harsha430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Harshasri Karthikeya Thumuluri
 
-Here are some ideas to get you started:
+### Java Developer | Machine Learning Enthusiast | Tech Innovator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Efficient+Backend+Systems;Exploring+AI%2FML+Frontiers;Creating+Innovative+Solutions" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D4AA?style=for-the-badge&logoColor=white)](https://harshasri-portfolio.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshasri-karthikeya-thumuluri-040f326/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshasrikarthikeyathumuluri@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsha430)
+
+</div>
+
+---
+
+## 🎯 About Me
+
+> _"Building efficient backend systems using Java, Spring Boot & modern tools"_
+
+I'm a passionate **Java Developer** and **Machine Learning Enthusiast** with a strong foundation in backend development and AI/ML technologies. Currently pursuing B.Tech in Computer Science Engineering, I combine academic excellence with practical experience in leading teams and developing innovative solutions.
+
+### 🌟 Professional Highlights
+
+- 🎖️ **Co-Lead** at PACT - Led 20+ members, increased placement rate by 35%
+- 🧠 **ML Member** at SCRS - Developed 3+ ML projects, contributed to 2 research publications
+- 🎓 **B.Tech CSE** from Krishnan Koil, Tamil Nadu
+- 💼 **Currently Available** for full-time positions and exciting collaborations
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### Backend & Core Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+### 📊 Skill Proficiency
+
+```text
+Java             ████████████████████████████████████████ 90%
+Machine Learning ████████████████████████████████████████ 85%
+MySQL            ████████████████████████████████████████ 80%
+PostgreSQL       ████████████████████████████████████████ 75%
+Python           ████████████████████████████████████████ 60%
+Git              ████████████████████████████████████████ 55%
+Spring Boot      ████████████████████████████████████████ 50%
+Docker           ████████████████████████████████████████ 25%
+```
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Harsha430/portfolio.git
+cd portfolio
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start development server:
+
+```bash
+npm run dev
+```
+
+4. Build for production:
+
+```bash
+npm run build
+```
+
+5. Preview production build:
+
+```bash
+npm run preview
+```
+
+---
+
+## � Featured Projects
+
+<div align="center">
+
+### 🔥 Spotlight Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 Vehicle Damage Prediction
+
+**AI-Powered Damage Detection System**
+
+An intelligent web-based system that detects and analyzes vehicle damage from uploaded images using deep learning and YOLO technology.
+
+**🛠️ Tech Stack:**
+
+- Python, Flask, NumPy
+- Ultralytics, Deep Learning, YOLO
+- Computer Vision, Image Processing
+
+**🌟 Key Features:**
+
+- Real-time damage detection
+- Advanced image analysis
+- User-friendly web interface
+- High accuracy predictions
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D4AA?style=for-the-badge)](https://vehicle-damage-prediction.onrender.com/)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Harsha430/vehicle-damage-prediction)
+
+</td>
+<td width="50%">
+
+### 🎯 Intern-Finder
+
+**Smart Resume-Based Job Matching**
+
+A Personal Assistant for finding internships and job opportunities tailored to your skills using NLP and data analytics.
+
+**🛠️ Tech Stack:**
+
+- Python, Flask, TensorFlow
+- NLP, Data Analytics, Pandas
+- Machine Learning Algorithms
+
+**🌟 Key Features:**
+
+- Intelligent skill matching
+- Personalized recommendations
+- Resume analysis
+- Job opportunity tracking
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D4AA?style=for-the-badge)](https://intern-finder-fx6s.onrender.com/)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Harsha430/Internship-Finder-Smart-Resume-based-Internship-Job-Suggestion-Tool)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### � E-Learn
+
+**Inclusive Learning Platform**
+
+Learning platform designed for disabled persons, helping them learn and grow through interactive features and accessible design.
+
+**🛠️ Tech Stack:**
+
+- HTML, Tailwind CSS, Node.js
+- Bootstrap 5, MySQL, Chart.js
+- Responsive Design
+
+**🌟 Key Features:**
+
+- Accessibility-focused design
+- Interactive learning modules
+- Progress tracking
+- Inclusive user experience
+
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Harsha430/E-Learn)
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+**Modern React Portfolio**
+
+A responsive, multi-theme portfolio website showcasing professional experience and projects with elegant animations.
+
+**🛠️ Tech Stack:**
+
+- React 18, TypeScript, Vite
+- Tailwind CSS, Lucide React
+- Modern UI/UX Design
+
+**🌟 Key Features:**
+
+- Three theme modes
+- Responsive design
+- Smooth animations
+- Professional timeline
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D4AA?style=for-the-badge)](https://harshasri-portfolio.onrender.com)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Harsha430/portfolio)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+### 🎯 Leadership & Impact
+
+</div>
+
+### 🏆 Key Achievements
+
+| Role          | Organization                           | Impact                                                | Duration  |
+| ------------- | -------------------------------------- | ----------------------------------------------------- | --------- |
+| **Co-Lead**   | PACT (Placement & Career Training)     | 🎖️ Led 20+ members<br/>📈 35% placement rate increase | 2023-2024 |
+| **ML Member** | SCRS (Soft Computing Research Society) | 🧠 3+ ML projects<br/>📄 2 research publications      | 2023-2024 |
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+### 📚 Academic Excellence
+
+</div>
+
+**🎓 Bachelor of Technology in Computer Science and Engineering**
+
+- 🏛️ **Institution:** Krishnan Koil, Tamil Nadu, India
+- 📅 **Duration:** 2021-2025 (Expected)
+- 🎯 **Focus:** Software Development, AI/ML, Data Structures & Algorithms
+
+**🎓 Higher Secondary Education**
+
+- 🏛️ **Institution:** Addanki, Andhra Pradesh, India
+- 📅 **Completed:** 2021
+- 🎯 **Stream:** Science & Mathematics
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsha430&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha430&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsha430&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💼 Currently Available For
+
+🎯 **Full-time Positions** | 🚀 **Freelance Projects** | 🤝 **Collaboration Opportunities**
+
+### 📬 Get In Touch
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshasrikarthikeyathumuluri@gmail.com?subject=Collaboration%20Opportunity&body=Hi%20Harshasri,%0D%0A%0D%0AI'd%20like%20to%20discuss%20a%20potential%20collaboration%20opportunity.%0D%0A%0D%0AProject%20details:%0D%0A%0D%0ABest%20regards,)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshasri-karthikeya-thumuluri-040f326/)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-00D4AA?style=for-the-badge&logoColor=white)](https://harshasri-portfolio.onrender.com)
+
+### ⚡ Quick Response Time
+
+📧 **Email:** Same day response | 💼 **LinkedIn:** Within hours
+
+</div>
+
+---
+
+## 🔧 Portfolio Setup
+
+<details>
+<summary><b>🚀 Quick Start Guide</b></summary>
+
+### Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/Harsha430/portfolio.git
+cd portfolio
+```
+
+2. **Install dependencies:**
+
+```bash
+npm install
+```
+
+3. **Start development server:**
+
+```bash
+npm run dev
+```
+
+4. **Build for production:**
+
+```bash
+npm run build
+```
+
+### 🎨 Features
+
+- **Responsive Design** - Optimized for all devices
+- **Three Theme Modes** - Light, Dark, and Turquoise
+- **Smooth Animations** - Professional UI/UX
+- **Interactive Timeline** - Professional experience showcase
+- **Project Gallery** - Live demos and source code links
+
+</details>
+
+---
+
+<div align="center">
+
+### 🌟 Thank you for visiting my profile!
+
+**"Building efficient backend systems using Java, Spring Boot & modern tools"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Harsha430&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+**⭐ Star this repository if you found it helpful!**
+
+Built with ❤️ by **Harshasri Karthikeya Thumuluri**
+
+</div>
