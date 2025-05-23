@@ -21,14 +21,6 @@
 
 I'm a passionate **Java Developer** and **Machine Learning Enthusiast** with a strong foundation in backend development and AI/ML technologies. Currently pursuing B.Tech in Computer Science Engineering, I combine academic excellence with practical experience in leading teams and developing innovative solutions.
 
-### 🌟 Professional Highlights
-
-- 🎖️ **Co-Lead** at PACT - Led 20+ members, increased placement rate by 35%
-- 🧠 **ML Member** at SCRS - Developed 3+ ML projects, contributed to 2 research publications
-- 🎓 **B.Tech CSE** from Krishnan Koil, Tamil Nadu
-- 💼 **Currently Available** for full-time positions and exciting collaborations
-
----
 
 ## 🛠️ Technical Arsenal
 
@@ -80,36 +72,10 @@ Docker           █████████████████████
 
 </div>
 
-### 🏆 Key Achievements
-
-| Role          | Organization                           | Impact                                                | Duration  |
-| ------------- | -------------------------------------- | ----------------------------------------------------- | --------- |
-| **Co-Lead**   | PACT (Placement & Career Training)     | 🎖️ Led 20+ members<br/>📈 35% placement rate increase | 2025-2026 |
-| **ML Member** | SCRS (Soft Computing Research Society) | 🧠 3+ ML projects<br/>📄 2 research publications      | 2024-2025 |
-
----
-
 ## 🎓 Education
 
 <div align="center">
 
-### 📚 Academic Excellence
-
-</div>
-
-**🎓 Bachelor of Technology in Computer Science and Engineering**
-
-- 🏛️ **Institution:** Krishnan Koil, Tamil Nadu, India
-- 📅 **Duration:** 2022-2026
-- 🎯 **Focus:** Software Development, AI/ML, Data Structures & Algorithms
-
-**🎓 Higher Secondary Education**
-
-- 🏛️ **Institution:** Addanki, Andhra Pradesh, India
-- 📅 **Completed:** 2022
-- 🎯 **Stream:** Science & Mathematics
-
----
 
 ## 📊 GitHub Analytics
 
