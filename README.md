@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Efficient+Backend+Systems;Exploring+AI%2FML+Frontiers;Creating+Innovative+Solutions" alt="Typing SVG" />
 
+
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D4AA?style=for-the-badge&logoColor=white)](https://harshafolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshasri-karthikeya-thumuluri-040f326/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshasrikarthikeyathumuluri@gmail.com)
@@ -14,13 +16,6 @@
 </div>
 
 ---
-
-## 🎯 About Me
-
-> _"Building efficient backend systems using Java, Spring Boot & modern tools"_
-
-I'm a passionate **Java Developer** and **Machine Learning Enthusiast** with a strong foundation in backend development and AI/ML technologies. Currently pursuing B.Tech in Computer Science Engineering, I combine academic excellence with practical experience in leading teams and developing innovative solutions.
-
 
 ## 🛠️ Technical Arsenal
 
