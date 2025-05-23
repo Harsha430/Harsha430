@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Efficient+Backend+Systems;Exploring+AI%2FML+Frontiers;Creating+Innovative+Solutions" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D4AA?style=for-the-badge&logoColor=white)](https://harshasri-portfolio.onrender.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D4AA?style=for-the-badge&logoColor=white)]([https://harshasri-portfolio.onrender.com](https://harshafolio.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshasri-karthikeya-thumuluri-040f326/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshasrikarthikeyathumuluri@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsha430)
@@ -71,164 +71,6 @@ Git              █████████████████████
 Spring Boot      ████████████████████████████████████████ 50%
 Docker           ████████████████████████████████████████ 25%
 ```
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Harsha430/portfolio.git
-cd portfolio
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Start development server:
-
-```bash
-npm run dev
-```
-
-4. Build for production:
-
-```bash
-npm run build
-```
-
-5. Preview production build:
-
-```bash
-npm run preview
-```
-
----
-
-## � Featured Projects
-
-<div align="center">
-
-### 🔥 Spotlight Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 Vehicle Damage Prediction
-
-**AI-Powered Damage Detection System**
-
-An intelligent web-based system that detects and analyzes vehicle damage from uploaded images using deep learning and YOLO technology.
-
-**🛠️ Tech Stack:**
-
-- Python, Flask, NumPy
-- Ultralytics, Deep Learning, YOLO
-- Computer Vision, Image Processing
-
-**🌟 Key Features:**
-
-- Real-time damage detection
-- Advanced image analysis
-- User-friendly web interface
-- High accuracy predictions
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D4AA?style=for-the-badge)](https://vehicle-damage-prediction.onrender.com/)
-[![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Harsha430/vehicle-damage-prediction)
-
-</td>
-<td width="50%">
-
-### 🎯 Intern-Finder
-
-**Smart Resume-Based Job Matching**
-
-A Personal Assistant for finding internships and job opportunities tailored to your skills using NLP and data analytics.
-
-**🛠️ Tech Stack:**
-
-- Python, Flask, TensorFlow
-- NLP, Data Analytics, Pandas
-- Machine Learning Algorithms
-
-**🌟 Key Features:**
-
-- Intelligent skill matching
-- Personalized recommendations
-- Resume analysis
-- Job opportunity tracking
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D4AA?style=for-the-badge)](https://intern-finder-fx6s.onrender.com/)
-[![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Harsha430/Internship-Finder-Smart-Resume-based-Internship-Job-Suggestion-Tool)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### � E-Learn
-
-**Inclusive Learning Platform**
-
-Learning platform designed for disabled persons, helping them learn and grow through interactive features and accessible design.
-
-**🛠️ Tech Stack:**
-
-- HTML, Tailwind CSS, Node.js
-- Bootstrap 5, MySQL, Chart.js
-- Responsive Design
-
-**🌟 Key Features:**
-
-- Accessibility-focused design
-- Interactive learning modules
-- Progress tracking
-- Inclusive user experience
-
-[![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Harsha430/E-Learn)
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Website
-
-**Modern React Portfolio**
-
-A responsive, multi-theme portfolio website showcasing professional experience and projects with elegant animations.
-
-**🛠️ Tech Stack:**
-
-- React 18, TypeScript, Vite
-- Tailwind CSS, Lucide React
-- Modern UI/UX Design
-
-**🌟 Key Features:**
-
-- Three theme modes
-- Responsive design
-- Smooth animations
-- Professional timeline
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D4AA?style=for-the-badge)](https://harshasri-portfolio.onrender.com)
-[![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Harsha430/portfolio)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 💼 Professional Experience
 
@@ -295,7 +137,7 @@ A responsive, multi-theme portfolio website showcasing professional experience a
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshasrikarthikeyathumuluri@gmail.com?subject=Collaboration%20Opportunity&body=Hi%20Harshasri,%0D%0A%0D%0AI'd%20like%20to%20discuss%20a%20potential%20collaboration%20opportunity.%0D%0A%0D%0AProject%20details:%0D%0A%0D%0ABest%20regards,)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshasri-karthikeya-thumuluri-040f326/)
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-00D4AA?style=for-the-badge&logoColor=white)](https://harshasri-portfolio.onrender.com)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-00D4AA?style=for-the-badge&logoColor=white)](https://harshafolio.vercel.app/)
 
 ### ⚡ Quick Response Time
 
@@ -305,54 +147,6 @@ A responsive, multi-theme portfolio website showcasing professional experience a
 
 ---
 
-## 🔧 Portfolio Setup
-
-<details>
-<summary><b>🚀 Quick Start Guide</b></summary>
-
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn
-
-### Installation
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/Harsha430/portfolio.git
-cd portfolio
-```
-
-2. **Install dependencies:**
-
-```bash
-npm install
-```
-
-3. **Start development server:**
-
-```bash
-npm run dev
-```
-
-4. **Build for production:**
-
-```bash
-npm run build
-```
-
-### 🎨 Features
-
-- **Responsive Design** - Optimized for all devices
-- **Three Theme Modes** - Light, Dark, and Turquoise
-- **Smooth Animations** - Professional UI/UX
-- **Interactive Timeline** - Professional experience showcase
-- **Project Gallery** - Live demos and source code links
-
-</details>
-
----
 
 <div align="center">
 
