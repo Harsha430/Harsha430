@@ -6,16 +6,22 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Efficient+Backend+Systems;Exploring+AI%2FML+Frontiers;Creating+Innovative+Solutions" alt="Typing SVG" />
 
-<br>
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D4AA?style=for-the-badge&logoColor=white)](https://harshafolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshasri-karthikeya-thumuluri-040f326/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshasrikarthikeyathumuluri@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsha430)
-
+<div style="margin-top: 30px;">
+  <a href="https://harshafolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live-00D4AA?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshasri-karthikeya-thumuluri-040f326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshasrikarthikeyathumuluri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Harsha430">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
+</div>
 ---
 
 ## 🛠️ Technical Arsenal
