@@ -4,9 +4,11 @@
 
 ### Java Developer | Machine Learning Enthusiast | Tech Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Efficient+Backend+Systems;Exploring+AI%2FML+Frontiers;Creating+Innovative+Solutions" alt="Typing SVG" />
+<div style="margin-bottom: 30px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Efficient+Backend+Systems;Exploring+AI%2FML+Frontiers;Creating+Innovative+Technologies" alt="Typing SVG" />
+</div>
 
-<div style="margin-top: 30px;">
+<div>
   <a href="https://harshafolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Live-00D4AA?style=for-the-badge&logoColor=white" />
   </a>
@@ -22,7 +24,6 @@
 </div>
 
 </div>
----
 
 ## 🛠️ Technical Arsenal
 
