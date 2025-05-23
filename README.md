@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Efficient+Backend+Systems;Exploring+AI%2FML+Frontiers;Creating+Innovative+Solutions" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D4AA?style=for-the-badge&logoColor=white)]([https://harshafolio.vercel.app/](https://harshafolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D4AA?style=for-the-badge&logoColor=white)](https://harshafolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshasri-karthikeya-thumuluri-040f326/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshasrikarthikeyathumuluri@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsha430)
@@ -84,8 +84,8 @@ Docker           █████████████████████
 
 | Role          | Organization                           | Impact                                                | Duration  |
 | ------------- | -------------------------------------- | ----------------------------------------------------- | --------- |
-| **Co-Lead**   | PACT (Placement & Career Training)     | 🎖️ Led 20+ members<br/>📈 35% placement rate increase | 2023-2024 |
-| **ML Member** | SCRS (Soft Computing Research Society) | 🧠 3+ ML projects<br/>📄 2 research publications      | 2023-2024 |
+| **Co-Lead**   | PACT (Placement & Career Training)     | 🎖️ Led 20+ members<br/>📈 35% placement rate increase | 2025-2026 |
+| **ML Member** | SCRS (Soft Computing Research Society) | 🧠 3+ ML projects<br/>📄 2 research publications      | 2024-2025 |
 
 ---
 
@@ -100,13 +100,13 @@ Docker           █████████████████████
 **🎓 Bachelor of Technology in Computer Science and Engineering**
 
 - 🏛️ **Institution:** Krishnan Koil, Tamil Nadu, India
-- 📅 **Duration:** 2021-2025 (Expected)
+- 📅 **Duration:** 2022-2026
 - 🎯 **Focus:** Software Development, AI/ML, Data Structures & Algorithms
 
 **🎓 Higher Secondary Education**
 
 - 🏛️ **Institution:** Addanki, Andhra Pradesh, India
-- 📅 **Completed:** 2021
+- 📅 **Completed:** 2022
 - 🎯 **Stream:** Science & Mathematics
 
 ---
