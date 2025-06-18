@@ -1,23 +1,25 @@
-<!-- Professional Header Design Option 1: Elegant Name Styling -->
-
-[//]: # (<div align="center">)
-
-[//]: # (  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,50:1e293b,100:334155&height=200&section=header&text=HARSHASRI%20KARTHIKEYA&fontSize=38&fontColor=f8fafc&animation=fadeIn&fontAlignY=50&desc=THUMULURI&descAlignY=70&descAlign=50&descSize=24&stroke=00D4AA&strokeWidth=1"/>)
-
-[//]: # (</div>)
-
-<!-- Enhanced Name Typography -->
+<!-- Professional Animated Header with Background Animations -->
 <div align="center">
-  <h1 style="font-family: 'Playfair Display', serif; font-weight: 700; font-size: 3.5rem; color: #1a202c; margin: 20px 0 10px 0; letter-spacing: 2px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
-    HARSHASRI KARTHIKEYA
-  </h1>
-  <h2 style="font-family: 'Inter', sans-serif; font-weight: 300; font-size: 1.8rem; color: #4a5568; margin: 0 0 15px 0; letter-spacing: 4px;">
-    THUMULURI
-  </h2>
-  <div style="width: 120px; height: 3px; background: linear-gradient(90deg, #00D4AA, #4FD1C7); margin: 0 auto 20px auto; border-radius: 2px;"></div>
-  <p style="font-family: 'Inter', sans-serif; font-weight: 400; font-size: 1.1rem; color: #718096; margin: 0; letter-spacing: 1px;">
-    Java Backend Developer | Machine Learning Engineer
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:667eea,75:764ba2,100:667eea&height=300&section=header&text=HARSHASRI%20KARTHIKEYA%20THUMULURI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20Backend%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=60&descAlign=50&descSize=18&stroke=00D4AA&strokeWidth=2"/>
+</div>
+
+<!-- Animated Background Elements -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- Professional Name with GitHub-Compatible Animations -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&height=80&lines=HARSHASRI+KARTHIKEYA+THUMULURI" alt="Professional Name" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=20&duration=4000&pause=2000&color=4A5568&center=true&vCenter=true&width=800&height=50&lines=Java+Backend+Developer;Machine+Learning+Engineer;System+Architecture+Specialist;Innovation+%26+Technology+Expert" alt="Professional Title" />
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 </div>
 
 <!-- Alternative Professional Header Options (uncomment to use): -->
