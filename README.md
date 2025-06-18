@@ -2,15 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:667eea,75:764ba2,100:667eea&height=300&section=header&text=HARSHASRI%20KARTHIKEYA%20THUMULURI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20Backend%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=60&descAlign=50&descSize=18&stroke=00D4AA&strokeWidth=2"/>
 </div>
-
-<!-- Animated Background Elements -->
-
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-</div>
-
 <!-- Alternative Professional Header Options (uncomment to use): -->
 
 <!-- Option 2: Pure Typography Elegance -->
