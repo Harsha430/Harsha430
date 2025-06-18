@@ -5,10 +5,6 @@
 
 <!-- Animated Background Elements -->
 
-<!-- Professional Name with GitHub-Compatible Animations -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&height=80&lines=HARSHASRI+KARTHIKEYA+THUMULURI" alt="Professional Name" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=20&duration=4000&pause=2000&color=4A5568&center=true&vCenter=true&width=800&height=50&lines=Java+Backend+Developer;Machine+Learning+Engineer;System+Architecture+Specialist;Innovation+%26+Technology+Expert" alt="Professional Title" />
