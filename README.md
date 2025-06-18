@@ -6,10 +6,6 @@
 <!-- Animated Background Elements -->
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=20&duration=4000&pause=2000&color=4A5568&center=true&vCenter=true&width=800&height=50&lines=Java+Backend+Developer;Machine+Learning+Engineer;System+Architecture+Specialist;Innovation+%26+Technology+Expert" alt="Professional Title" />
-</div>
-
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
