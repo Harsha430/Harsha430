@@ -1,6 +1,11 @@
-<!-- Professional Animated Header with Background Animations -->
+<!-- Professional Header with Elegant Background Animations -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:667eea,75:764ba2,100:667eea&height=300&section=header&text=HARSHASRI%20KARTHIKEYA%20THUMULURI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20Backend%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=60&descAlign=50&descSize=18&stroke=00D4AA&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,25:34495e,50:2c3e50,75:34495e,100:2c3e50&height=300&section=header&text=HARSHASRI%20KARTHIKEYA%20THUMULURI&fontSize=40&fontColor=ecf0f1&fontAlignY=40&desc=Senior%20Java%20Developer%20%7C%20Spring%20Boot%20Architect%20%7C%20Backend%20Systems%20Engineer&descAlignY=60&descAlign=50&descSize=16&stroke=3498db&strokeWidth=1"/>
+</div>
+
+<!-- Elegant Background Animation Elements -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 <!-- Alternative Professional Header Options (uncomment to use): -->
 
@@ -72,7 +77,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=Building+Efficient+Backend+Systems;Exploring+Artificial+Intelligence+Frontiers;Creating+Innovative+Technology+Solutions;Java+and+Spring+Boot+Architecture+Expert;Transforming+Complex+Ideas+into+Scalable+Code;Backend+System+Architecture+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&weight=500&size=22&duration=4000&pause=1000&color=2c3e50&center=true&vCenter=true&width=900&lines=Architecting+Robust+Java+Applications;Designing+Scalable+Spring+Boot+Solutions;Engineering+Enterprise+Backend+Systems;Developing+High-Performance+Microservices;Building+Secure+RESTful+APIs;Creating+Maintainable+Software+Architecture" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -211,20 +216,20 @@
 
 ```typescript
 interface SkillProficiency {
-  technology: string;
-  proficiency: number;
-  experience: string;
+    technology: string;
+    proficiency: number;
+    experience: string;
 }
 
 const technicalExpertise: SkillProficiency[] = [
-  { technology: "Java", proficiency: 90, experience: "Advanced" },
-  { technology: "Machine Learning", proficiency: 85, experience: "Advanced" },
-  { technology: "MySQL", proficiency: 80, experience: "Proficient" },
-  { technology: "PostgreSQL", proficiency: 75, experience: "Proficient" },
-  { technology: "Python", proficiency: 60, experience: "Intermediate" },
-  { technology: "Git", proficiency: 55, experience: "Intermediate" },
-  { technology: "Spring Boot", proficiency: 50, experience: "Intermediate" },
-  { technology: "Docker", proficiency: 25, experience: "Beginner" }
+    { technology: "Java", proficiency: 90, experience: "Advanced" },
+    { technology: "Machine Learning", proficiency: 85, experience: "Advanced" },
+    { technology: "MySQL", proficiency: 80, experience: "Proficient" },
+    { technology: "PostgreSQL", proficiency: 75, experience: "Proficient" },
+    { technology: "Python", proficiency: 60, experience: "Intermediate" },
+    { technology: "Git", proficiency: 55, experience: "Intermediate" },
+    { technology: "Spring Boot", proficiency: 50, experience: "Intermediate" },
+    { technology: "Docker", proficiency: 25, experience: "Beginner" }
 ];
 
 // Continuous learning and professional development
@@ -271,15 +276,15 @@ const learningPhilosophy = "Always evolving, always improving";
 public class HarshasriKarthikeya extends BackendDeveloper implements TechInnovator {
 
     private final String[] coreExpertise = {
-        "Java Backend Development",
-        "Spring Boot Architecture",
-        "Machine Learning Implementation",
-        "Database Design & Optimization",
-        "Scalable System Architecture"
+            "Java Backend Development",
+            "Spring Boot Architecture",
+            "Machine Learning Implementation",
+            "Database Design & Optimization",
+            "Scalable System Architecture"
     };
 
     private final String professionalMission =
-        "Building efficient, scalable backend systems that drive innovation";
+            "Building efficient, scalable backend systems that drive innovation";
 
     @Override
     public void developSolutions() {
