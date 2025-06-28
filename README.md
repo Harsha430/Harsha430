@@ -77,10 +77,6 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&weight=500&size=22&duration=4000&pause=1000&color=2c3e50&center=true&vCenter=true&width=900&lines=Architecting+Robust+Java+Applications;Designing+Scalable+Spring+Boot+Solutions;Engineering+Enterprise+Backend+Systems;Developing+High-Performance+Microservices;Building+Secure+RESTful+APIs;Creating+Maintainable+Software+Architecture" alt="Typing SVG" />
-</div>
-
-<div align="center">
 
 <table>
 <tr>
@@ -107,48 +103,10 @@
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-<div align="center">
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="35"> **PROFESSIONAL PROFILE**
-
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
-
-<table align="center" style="border: none;">
-<tr>
-<td align="center" width="50%" style="border: none; padding: 20px;">
-
-### **MISSION STATEMENT**
-<div style="font-family: 'Georgia', serif; font-style: italic; color: #666; line-height: 1.6;">
-"Passionate backend developer specializing in Java and Spring Boot, with a keen interest in machine learning and AI. Dedicated to building efficient, scalable systems that solve real-world problems through innovative technology solutions."
-</div>
-
-</td>
-<td align="center" width="50%" style="border: none; padding: 20px;">
-
-### **CURRENT FOCUS**
-<div style="font-family: 'Roboto', sans-serif;">
-
-**Java Backend Specialist**
-**Spring Boot Expert**
-**Machine Learning Enthusiast**
-**System Architecture**
-**Innovation & Problem Solving**
-
-</div>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
