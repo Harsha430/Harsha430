@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,25:34495e,50:2c3e50,75:34495e,100:2c3e50&height=300&section=header&text=HARSHASRI%20KARTHIKEYA%20THUMULURI&fontSize=40&fontColor=ecf0f1&fontAlignY=40&desc=Senior%20Java%20Developer%20%7C%20Spring%20Boot%20Architect%20%7C%20Backend%20Systems%20Engineer&descAlignY=60&descAlign=50&descSize=16&stroke=3498db&strokeWidth=1"/>
 </div>
 
-<!-- Elegant Background Animation Elements -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-</div>
-<!-- Alternative Professional Header Options (uncomment to use): -->
-
 <!-- Option 2: Pure Typography Elegance -->
 <!--
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 60px 0; margin: 20px 0;">
