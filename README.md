@@ -85,7 +85,7 @@
 </tr>
 </table>
 
-## 📊 SKILL PROFICIENCY MATRIX
+# 📊 SKILL PROFICIENCY MATRIX
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221857984-5bf77e81-6f65-4502-a7c8-f29a978efb3f.gif" width="360">
@@ -110,12 +110,23 @@ const technicalExpertise: SkillProficiency[] = [
 ];
 
 const learningPhilosophy = "Always evolving, always improving";
-📈 DEVELOPMENT ANALYTICS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harsha430&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&custom_title=Development%20Statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha430&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Language%20Distribution" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha430&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha430&theme=react-dark&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true" /> </div>
-💻 DEVELOPMENT PHILOSOPHY
-java
-Copy
-Edit
+```
+
+## 📈 DEVELOPMENT ANALYTICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha430&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&custom_title=Development%20Statistics" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha430&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Language%20Distribution" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha430&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha430&theme=react-dark&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+## 💻 DEVELOPMENT PHILOSOPHY
+
+```java
 /**
  * Professional Development Philosophy
  * Author: Harshasri Karthikeya Thumuluri
@@ -153,31 +164,57 @@ public class HarshasriKarthikeya extends BackendDeveloper implements TechInnovat
         return true;
     }
 }
-🤝 PROFESSIONAL COLLABORATION
-<table align="center"> <tr> <td align="center">
-CURRENTLY AVAILABLE FOR
+```
 
-Full-time Positions
+## 🤝 PROFESSIONAL COLLABORATION
 
-Freelance Projects
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>CURRENTLY AVAILABLE FOR</h3>
+      <ul style="text-align: left;">
+        <li>Full-time Positions</li>
+        <li>Freelance Projects</li>
+        <li>Technical Collaboration</li>
+        <li>Mentoring & Knowledge Sharing</li>
+        <li>Open Source Contributions</li>
+      </ul>
+    </td>
+    <td align="center">
+      <h3>RESPONSE COMMITMENT</h3>
+      <ul style="text-align: left;">
+        <li>Email Response: Same day</li>
+        <li>LinkedIn Messages: Within hours</li>
+        <li>Portfolio Demos: Available on request</li>
+        <li>Technical Discussions: Always open</li>
+        <li>Project Consultations: Flexible scheduling</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Technical Collaboration
+<div align="center">
+  <a href="mailto:harshasrikarthikeyathumuluri@gmail.com?subject=Professional%20Collaboration&body=Hello%20Harshasri,%0D%0A%0D%0AI%20would%20like%20to%20discuss%20a%20professional%20collaboration%20opportunity.%0D%0A%0D%0AProject%20Details:%0D%0A%0D%0ABest%20regards,">
+    <img src="https://img.shields.io/badge/EMAIL_COLLABORATION-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshasri-karthikeya-thumuluri-040f326/">
+    <img src="https://img.shields.io/badge/LINKEDIN_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
+  </a>
+  <a href="https://harshafolio.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00D4AA?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+  </a>
+</div>
 
-Mentoring & Knowledge Sharing
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsha430&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
 
-Open Source Contributions
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
 
-</td> <td align="center">
-RESPONSE COMMITMENT
-
-Email Response: Same day
-
-LinkedIn Messages: Within hours
-
-Portfolio Demos: Available on request
-
-Technical Discussions: Always open
-
-Project Consultations: Flexible scheduling
-
-</td> </tr> </table> <div align="center"> <a href="mailto:harshasrikarthikeyathumuluri@gmail.com?subject=Professional%20Collaboration&body=Hello%20Harshasri,%0D%0A%0D%0AI%20would%20like%20to%20discuss%20a%20professional%20collaboration%20opportunity.%0D%0A%0D%0AProject%20Details:%0D%0A%0D%0ABest%20regards,"> <img src="https://img.shields.io/badge/EMAIL_COLLABORATION-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/> </a> <a href="https://www.linkedin.com/in/harshasri-karthikeya-thumuluri-040f326/"> <img src="https://img.shields.io/badge/LINKEDIN_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/> </a> <a href="https://harshafolio.vercel.app/"> <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00D4AA?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/> </a> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Harsha430&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </div> <div align="center" style="font-family: 'Georgia', serif; font-style: italic; color: #666;"> "Star my repositories if they inspire you! Let's build innovative backend systems together." <br>Crafted with precision by Harshasri Karthikeya Thumuluri </div> ```
+<div align="center" style="font-family: 'Georgia', serif; font-style: italic; color: #666;">
+  <em>"Star my repositories if they inspire you! Let's build innovative backend systems together."</em>
+  <br>
+  <strong>Crafted with precision by Harshasri Karthikeya Thumuluri</strong>
+</div>
