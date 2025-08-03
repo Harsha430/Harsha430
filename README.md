@@ -32,10 +32,6 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="100">
@@ -85,33 +81,6 @@
 </tr>
 </table>
 
-# 📊 SKILL PROFICIENCY MATRIX
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221857984-5bf77e81-6f65-4502-a7c8-f29a978efb3f.gif" width="360">
-</div>
-
-```typescript
-interface SkillProficiency {
-    technology: string;
-    proficiency: number;
-    experience: string;
-}
-
-const technicalExpertise: SkillProficiency[] = [
-    { technology: "Java", proficiency: 90, experience: "Advanced" },
-    { technology: "Machine Learning", proficiency: 85, experience: "Advanced" },
-    { technology: "MySQL", proficiency: 80, experience: "Proficient" },
-    { technology: "PostgreSQL", proficiency: 75, experience: "Proficient" },
-    { technology: "Python", proficiency: 60, experience: "Intermediate" },
-    { technology: "Git", proficiency: 55, experience: "Intermediate" },
-    { technology: "Spring Boot", proficiency: 50, experience: "Intermediate" },
-    { technology: "Docker", proficiency: 25, experience: "Beginner" }
-];
-
-const learningPhilosophy = "Always evolving, always improving";
-```
-
 ## 📈 DEVELOPMENT ANALYTICS
 
 <div align="center">
@@ -124,74 +93,7 @@ const learningPhilosophy = "Always evolving, always improving";
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha430&theme=react-dark&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
-## 💻 DEVELOPMENT PHILOSOPHY
-
-```java
-/**
- * Professional Development Philosophy
- * Author: Harshasri Karthikeya Thumuluri
- * Version: 2024.1
- */
-public class HarshasriKarthikeya extends BackendDeveloper implements TechInnovator {
-
-    private final String[] coreExpertise = {
-        "Java Backend Development",
-        "Spring Boot Architecture",
-        "Machine Learning Implementation",
-        "Database Design & Optimization",
-        "Scalable System Architecture"
-    };
-
-    private final String professionalMission =
-        "Building efficient, scalable backend systems that drive innovation";
-
-    @Override
-    public void developSolutions() {
-        while (continuousLearning) {
-            research(emergingTechnologies);
-            architect(robustSystems);
-            optimize(performance);
-            mentor(colleagues);
-            contribute(openSource);
-        }
-    }
-
-    public String getProfessionalVision() {
-        return "Creating enterprise-grade backend solutions with Java ecosystem";
-    }
-
-    public boolean isAvailableForCollaboration() {
-        return true;
-    }
-}
-```
-
 ## 🤝 PROFESSIONAL COLLABORATION
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>CURRENTLY AVAILABLE FOR</h3>
-      <ul style="text-align: left;">
-        <li>Full-time Positions</li>
-        <li>Freelance Projects</li>
-        <li>Technical Collaboration</li>
-        <li>Mentoring & Knowledge Sharing</li>
-        <li>Open Source Contributions</li>
-      </ul>
-    </td>
-    <td align="center">
-      <h3>RESPONSE COMMITMENT</h3>
-      <ul style="text-align: left;">
-        <li>Email Response: Same day</li>
-        <li>LinkedIn Messages: Within hours</li>
-        <li>Portfolio Demos: Available on request</li>
-        <li>Technical Discussions: Always open</li>
-        <li>Project Consultations: Flexible scheduling</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <a href="mailto:harshasrikarthikeyathumuluri@gmail.com?subject=Professional%20Collaboration&body=Hello%20Harshasri,%0D%0A%0D%0AI%20would%20like%20to%20discuss%20a%20professional%20collaboration%20opportunity.%0D%0A%0D%0AProject%20Details:%0D%0A%0D%0ABest%20regards,">
