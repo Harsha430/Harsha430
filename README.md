@@ -14,10 +14,6 @@
 
 <br />
 
-<div align="center"> 
-  I engineer robust backend systems and scalable architectures. Passionate about **Java**, **Spring Boot**, and building efficient, high-performance applications.
-</div>
-
 <br />
 
 ### 🛠️ Technical Arsenal
@@ -38,10 +34,6 @@
 ### 📈 DEVELOPMENT ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha430&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha430&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha430&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha430&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
