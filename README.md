@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Harshasri%20Karthikeya&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20LLM%20%26%20RAG%20Specialist&descAlignY=55&descSize=18&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Harshasri%20Karthikeya&fontSize=70&fontColor=fff&fontAlignY=35&desc=AI%20Engineer%20|%20GenAI%20and%20LLM%20Specialist%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=fff)
 
 <div align="center">
   <a href="https://harshafolio.vercel.app/">
@@ -72,15 +72,23 @@
 
 ### 💻 All Technologies
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+  <table>
+    <tr>
+      <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" /></td>
+      <td><img src="https://techstack-generator.vercel.app/java-icon.svg" width="80" height="80" alt="Java" /></td>
+      <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React" /></td>
+      <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker" /></td>
+      <td><img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub" /></td>
+    </tr>
+  </table>
+  
   <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,flask,react,typescript,nextjs,vite,tailwind,nodejs,postgres,mysql,mongodb,redis,docker,kubernetes,aws,kafka,maven,hibernate,git,github,postman,vscode,idea&theme=dark" />
-  </a>
+  
+  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,flask,react,typescript,nextjs,vite,tailwind&perline=10" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,redis,docker,kubernetes,aws,kafka,maven&perline=10" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=hibernate,git,github,postman,vscode,idea&perline=10" />
 </div>
 
 <br />
